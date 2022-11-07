@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nikita</h1>
-<h3 align="center">A passionate full stack developer</h3>
+<h1 align="center">Hi there 👋, My name is Nikita</h1>
+<h3 align="center">I'm an enthusiastic and conscientious programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nlipatov&label=Profile%20views&color=0e75b6&style=flat" alt="nlipatov" /> </p>
 
