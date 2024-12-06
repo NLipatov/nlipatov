@@ -1,10 +1,12 @@
 # 👋 Welcome to My GitHub Profile
 
-## 🛠 My Tech Stack
+## 🛠 Tech stack
 
-- **C#**
-- **JavaScript**
-- **Go**
+- Go ❤️
+- C#
+- JavaScript
+
+![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlipatov&langs_count=3)
 
 ## 🌍 Open Source Contributions
 
