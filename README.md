@@ -12,7 +12,7 @@
 
 I actively contribute to the open-source community. Here are some of my notable contributions:
 
-- **[TunGo](https://github.com/NLipatov/TunGo)**: Fast, efficient and secure crossplatform (Linux, macOS, Windows) VPN protocol implemented in Go. Learn about TunGo more at https://tungo.ethacore.com
+- **[TunGo](https://github.com/NLipatov/TunGo)**: Fast, efficient and secure crossplatform (Linux, macOS, Windows) VPN protocol. Learn about TunGo more at https://tungo.ethacore.com
 
 - **[goproxy](https://github.com/NLipatov/goproxy)**: HTTP-proxy server implementation written in Go.
 
