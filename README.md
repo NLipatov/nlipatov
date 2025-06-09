@@ -14,6 +14,8 @@ I actively contribute to the open-source community. Here are some of my notable 
 
 - **[TunGo](https://github.com/NLipatov/TunGo)**: Fast, efficient and secure crossplatform (Linux, macOS, Windows) VPN protocol. Learn about TunGo more at https://tungo.ethacore.com
 
+- **[cinemator](https://github.com/NLipatov/cinemator)**: Cinemator lets you paste any torrent magnet link and instantly watch the video in your browser — no waiting, no downloads, just streaming.
+  
 - **[goproxy](https://github.com/NLipatov/goproxy)**: HTTP-proxy server implementation written in Go.
 
 - **[virtualize-js](https://www.npmjs.com/package/virtualize-js)**: A JavaScript library that provides efficient DOM virtualization for web applications. It helps in rendering large lists and complex UI elements with minimal performance overhead.
