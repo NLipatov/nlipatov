@@ -16,5 +16,5 @@
 
 ## Contact Me
 
-Email: 6stringsohei@gmail.com
-Telegram: [@ThreeDollarBill](https://t.me/ThreeDollarBill)
+- Email: 6stringsohei@gmail.com
+- Telegram: [@ThreeDollarBill](https://t.me/ThreeDollarBill)
