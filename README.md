@@ -1,29 +1,20 @@
-# 👋 Welcome to My GitHub Profile
+# Nikita Lipatov — software developer
 
-## 🛠 Tech stack
+## Open Source Contributions
 
-- Go ❤️
-- C#
-- JavaScript
+- **[TunGo](https://github.com/NLipatov/TunGo)** — high-performance cross-platform VPN protocol in Go (learn more at https://tungo.ethacore.com)
 
-![Top used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nlipatov&langs_count=3)
-
-## 🌍 Open Source Contributions
-
-I actively contribute to the open-source community. Here are some of my notable contributions:
-
-- **[TunGo](https://github.com/NLipatov/TunGo)**: Fast, efficient and secure crossplatform (Linux, macOS, Windows) VPN protocol. Learn about TunGo more at https://tungo.ethacore.com
-
-- **[cinemator](https://github.com/NLipatov/cinemator)**: Cinemator lets you paste any torrent magnet link and instantly watch the video in your browser — no waiting, no downloads, just streaming.
+- **[cinemator](https://github.com/NLipatov/cinemator)** — torrent-to-HTTP streaming server for instant torrent video playback.
   
-- **[goproxy](https://github.com/NLipatov/goproxy)**: HTTP-proxy server implementation written in Go.
+- **[goproxy](https://github.com/NLipatov/goproxy)** — lightweight HTTP proxy server in Go.
 
-- **[virtualize-js](https://www.npmjs.com/package/virtualize-js)**: A JavaScript library that provides efficient DOM virtualization for web applications. It helps in rendering large lists and complex UI elements with minimal performance overhead.
+- **[virtualize-js](https://www.npmjs.com/package/virtualize-js)** — JavaScript library for efficient DOM virtualization.
   
-- **[Ethachat](https://github.com/NLipatov/Ethachat)**: A Blazor WASM application I created with end-to-end encryption using RSA and AES. Ethachat allows for secure transmission of both text and binary files. It also supports streaming of video files using HLS (HTTP Live Streaming).
+- **[Ethachat](https://github.com/NLipatov/Ethachat)** — Blazor WASM app with end-to-end encryption (RSA/AES) and HLS video streaming.
 
-- **Minor contributions to the official .NET repository**: I have also made several minor contributions to the [official .NET repository](https://github.com/dotnet).
+- **Minor contributions** — official .NET repository.
 
-## 📬 Contact Me
+## Contact Me
 
+Email: 6stringsohei@gmail.com
 Telegram: [@ThreeDollarBill](https://t.me/ThreeDollarBill)
