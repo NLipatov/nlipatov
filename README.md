@@ -19,6 +19,7 @@ Backend infrastructure, distributed systems, networking, performance.
 
 ## Upstream Contributions
 
+- **[rune](https://github.com/unstablebuild/rune)** — terminal-based IDE and multiplexer for manual and agentic development.
 - **[mcp-go](https://github.com/mark3labs/mcp-go)** — diagnosed and fixed a per-session memory leak; released in v0.44.1.
 - **[dotnet/AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs)** — contributed to the official ASP.NET Core documentation.
 
